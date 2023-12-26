@@ -15,6 +15,16 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"entityBehaviours","order":1,"path":"folders/Scripts/entityBehaviours.yy",},
+    {"name":"core","order":1,"path":"folders/Objects/core.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_eventCapable","order":1,"path":"objects/obj_eventCapable/obj_eventCapable.yy",},
+    {"name":"spr_copperConsumer","order":2,"path":"sprites/spr_copperConsumer/spr_copperConsumer.yy",},
+    {"name":"spr_conveyer","order":3,"path":"sprites/spr_conveyer/spr_conveyer.yy",},
+    {"name":"spr_copper","order":4,"path":"sprites/spr_copper/spr_copper.yy",},
+    {"name":"scr_pubsub","order":2,"path":"scripts/scr_pubsub/scr_pubsub.yy",},
+    {"name":"obj_producer","order":2,"path":"objects/obj_producer/obj_producer.yy",},
+    {"name":"spr_copperProducer","order":1,"path":"sprites/spr_copperProducer/spr_copperProducer.yy",},
+  ],
 }
